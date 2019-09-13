@@ -1,6 +1,8 @@
 # open-jamf-pro-server-tools
 A simple Automator applet to open the new Jamf Pro Server Tools
 
+[Download here](https://github.com/PaperFixie/open-jamf-pro-server-tools/raw/master/Jamf%20Pro%20Server%20Tools%20Launcher.dmg)
+
 This applet executes a simple shell script to open the new Jamf Pro Server Tools with a single click.
 
 Currently the workaround as stated on [Jamfnation](https://www.jamf.com/jamf-nation/articles/578/jamf-pro-server-tools-overview):
