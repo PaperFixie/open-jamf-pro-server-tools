@@ -7,7 +7,7 @@ Currently the workaround as stated on [Jamfnation](https://www.jamf.com/jamf-nat
 
 > ## Open the Jamf Pro Server Tools GUI by performing the following steps:
 >
-> 1. Open a command terminal and enter the following: \n`java -jar`
+> 1. Open a command terminal and enter the following: `java -jar`
 > 2. Drag the Jamf Pro Server Tools .jar file into the window to add the path to the .jar file to the java -jar command.
 > 3. Press Enter.
 
